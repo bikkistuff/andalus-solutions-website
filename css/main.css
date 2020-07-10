@@ -29,6 +29,9 @@ ul li a:hover {
 header {
     border-bottom: 5px solid #002626 ;
 }
+.active {
+    color: #909090
+}
 #nav {
     float: right;
 }
