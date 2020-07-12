@@ -18,19 +18,28 @@ ul li {
     margin-left: 10px;
     font-weight: bold;
 }
-ul li a {
+a {
     color: #002626;
     transition: all 0.2s ease;
     text-decoration: none;
 }
-ul li a:hover {
+a:hover {
     color: #E71D36;
 }
 header {
     border-bottom: 5px solid #002626 ;
 }
+footer {
+    text-align: center;
+}
+footer a {
+    margin: 10px;
+}
 .active {
-    color: #909090
+    color: #909090;
+}
+.underline {
+    text-decoration: underline;
 }
 #nav {
     float: right;
